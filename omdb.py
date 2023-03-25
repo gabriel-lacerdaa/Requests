@@ -1,5 +1,9 @@
 import requests
 
+
+#Essa chave eu consegui no site https://www.omdbapi.com/
+#eles mandam a chave pelo email, e basta so ativar
+#limite de 1000 requisições por dia
 api_key = 'c99099d0'
 
 
